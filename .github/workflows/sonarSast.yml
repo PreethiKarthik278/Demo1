@@ -6,5 +6,5 @@
     # Additional arguments to the sonar-scanner
     args: # optional
     # Set the sonar.projectBaseDir analysis property
-    projectBaseDir: # optional, default is .
+    projectBaseDir: sample1.js
           
